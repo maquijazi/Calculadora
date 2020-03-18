@@ -47,7 +47,7 @@ namespace Calculadora
             label1.Text = "0";
         }
 
-        private void igualPulsado(object sender, EventArgs e)
+        private void igualpulsa(object sender, EventArgs e)
         {
             double operando2 = Convert.ToDouble(label1.Text);
             double resultado = 0;

@@ -167,7 +167,7 @@
             this.button10.TabIndex = 12;
             this.button10.Text = "=";
             this.button10.UseVisualStyleBackColor = true;
-            this.button10.Click += new System.EventHandler(this.igualPulsado);
+            this.button10.Click += new System.EventHandler(this.igualpulsa);
             // 
             // button11
             // 
